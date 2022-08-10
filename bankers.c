@@ -107,7 +107,7 @@ void cal()
                             finish[i] = 1;
                             flag = 1;
                         }
-                        printf("P%d->", i);
+                        printf("P%d->", i + 1);
                         /* if(finish[i]==1)
                         {
                         i=n;
