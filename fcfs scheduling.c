@@ -12,7 +12,7 @@ int ct;
 
 void main()
 { int np,i,j,tottt=0,totwt=0,n;
-
+  printf("fcfs scheduling");
  printf("\nenter number of processes ");
  scanf("%d",&n);
  printf("\nenter arrival time and burst time ");
